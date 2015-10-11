@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Built-By: alex_rashkov
+Created-By: 1.8.0_51 (Alex Rashkov)
